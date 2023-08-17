@@ -1,7 +1,12 @@
 # CODINGBJS 
+<br>
 
+## One-line review
+- ### 프로그래머(Programmer)와 개발자(Developer)의 차이?
+---
+<br>
 
-# 보유기술
+## 보유기술
 - ### 개발언어
     - JAVA, Kotlin, Android
 
@@ -29,7 +34,7 @@
 <br>
 
 
-# YouTube
+## YouTube
 - ### [코딩발전소](https://www.youtube.com/@cdbjs) 
 - ### [영어단어장](https://www.youtube.com/@EK-V-Book) 
 - ### [Chit Chat English](https://www.youtube.com/@chitchat-english/)
