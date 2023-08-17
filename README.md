@@ -1,4 +1,4 @@
-# CODINGBJS 
+# CodingBJS 
 <br>
 
 ## One-line review
